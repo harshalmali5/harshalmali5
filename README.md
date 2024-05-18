@@ -64,7 +64,7 @@ A front-end project leveraging React Flow for an interactive user interface that
 
 ## 📈 GitHub Stats
 
-![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshalmali5&show_icons=true&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalmali5&layout=compact&theme=radical)
 
