@@ -52,8 +52,8 @@ A front-end project leveraging React Flow for an interactive user interface that
 
 ## 📫 Connect with Me
 
-- **Email**: [harshal@example.com](mailto:harshalmali527@gmail.com)
-- **LinkedIn**: [Harshal Mali](https://www.linkedin.com/in/harshal-mali/)
+- **Email**: [harshalmali527@gmail.com](mailto:harshalmali527@gmail.com)
+- **LinkedIn**: [Harshal Mali](https://www.linkedin.com/in/harshalmali/)
 
 ## 💡 What I'm Currently Learning
 
