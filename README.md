@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I am a passionate Artificial Intelligence and Mach
 ### [WCPM](https://github.com/harshalmali5/WCPM)
 A comprehensive project repository for the website whitecloudpm.com. This project includes web scraping functionalities, automation scripts, and a password manager component using Chrome storage.
 
-### Human LLM Monitor 
+### [Human LLM Monitor] (https://github.com/harshalmali5/HumanLLM-Monitor-Frontend)
 A sophisticated monitoring system that uses multiple GPT agents to generate prompts, code, and validate system requirements in isolated environments, integrating feedback loops for user input and code validation.
 
 ### React Flow-based Interactive UI
