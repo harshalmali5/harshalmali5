@@ -39,17 +39,6 @@ Welcome to my GitHub profile! I am a passionate Artificial Intelligence and Mach
 - **Theme Development**: Custom Themes, Child Themes
 - **Tools**: Elementor, WPBakery
 
-## 🚀 Projects
-
-### [WCPM](https://github.com/harshalmali5/WCPM)
-A comprehensive project repository for the website whitecloudpm.com. This project includes web scraping functionalities, automation scripts, and a password manager component using Chrome storage.
-
-### [Human LLM Monitor](https://github.com/harshalmali5/HumanLLM-Monitor-Frontend)
-A sophisticated monitoring system that uses multiple GPT agents to generate prompts, code, and validate system requirements in isolated environments, integrating feedback loops for user input and code validation.
-
-### React Flow-based Interactive UI
-A front-end project leveraging React Flow for an interactive user interface that translates user inputs to backend CLI commands using WebSockets, spawning child Python processes for backend connectivity.
-
 ## 📫 Connect with Me
 
 - **Email**: [harshalmali527@gmail.com](mailto:harshalmali527@gmail.com)
