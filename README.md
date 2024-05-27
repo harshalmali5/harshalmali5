@@ -53,7 +53,6 @@ Welcome to my GitHub profile! I am a passionate Artificial Intelligence and Mach
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshalmali5)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalmali5&layout=compact&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com?user=harshalmali5)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalmali5&layout=compact&theme=radical)
 
