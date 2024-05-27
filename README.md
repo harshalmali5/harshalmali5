@@ -4,6 +4,10 @@
 
 Welcome to my GitHub profile! I am a passionate Artificial Intelligence and Machine Learning enthusiast currently in my third year at Savitribai Phule Pune University. My work spans across various domains, including web technologies, IoT, cybersecurity, and more.
 
+## 📈 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshalmali5&theme=dark&mode=weekly&card_height=100)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalmali5&layout=compact&theme=radical) 
+
 ## About Me
 
 - 🎓 **Education**: B.Tech in Artificial Intelligence and Machine Learning
@@ -51,7 +55,5 @@ Welcome to my GitHub profile! I am a passionate Artificial Intelligence and Mach
 - Brain-Computer Interface Technologies
 - Enhancing Cybersecurity with AI
 
-## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshalmali5&theme=dark&mode=weekly&card_height=100)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalmali5&layout=compact&theme=radical) 
 
