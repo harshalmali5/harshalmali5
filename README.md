@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=harshalmali5)
 # Hi there, I'm Harshal Mali! 👋
 
 
@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate Artificial Intelligence and Mach
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harshalmali5&theme=dark&mode=weekly&card_height=100)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalmali5&layout=compact&theme=radical) 
-![](https://komarev.com/ghpvc/?username=harshalmali5)
+
 ## About Me
 
 - 🎓 **Education**: B.Tech in Artificial Intelligence and Machine Learning
